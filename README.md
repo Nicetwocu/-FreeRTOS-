@@ -10,7 +10,7 @@
 - **实时操作系统**：FreeRTOS 任务划分（DI 扫描、网络处理、协议转换）
 - **配置灵活**：上电未配置时自动请求参数，支持动态模式切换
 
-## 技术栈
+## 技术栈 
 - **硬件**：STM32F103VET6 + W5500 + EL357 + HR911105A + LM2596 + AMS1117
 - **软件**：FreeRTOS (CMSIS-RTOS v2) + W5500 ioLibrary + Modbus 协议栈
-- **工具**：Keil MDK、Altium Designer、Modbus Poll、Wireshark
+- **工具**：Keil MDK、Altium Designer、Wireshark
